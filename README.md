@@ -1,2 +1,2 @@
-# cloudflaredemosite
-cloudflaredemosite.com
+# justanotherdemosite
+justanotherdemosite.com
